@@ -21,6 +21,7 @@ Which of the following is NOT part of a Uniform Resource Locator?
 6. Question 6
 Which HTML tag typically generates a request to retrieve a document?
 ->a
+-> img
 
 7. Question 7
 What standards organization publishes many of the documents that describe the protocols we use on the Internet?
